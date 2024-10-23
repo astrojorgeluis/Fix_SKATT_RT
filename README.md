@@ -15,3 +15,7 @@ El fix consiste en correcciones a dos archivos clave para mejorar la compatibili
      - Deshabilita la imagen del logo en la línea 40.  
      - Ajusta el tamaño del texto en la línea 199 para mejorar la visualización.  
      - Habilita la opción de cambiar el tamaño de la ventana en la línea 278.
+
+### Instalación
+
+Para instalar el fix, simplemente reemplace los archivos originales por los archivos de este repositorio.
